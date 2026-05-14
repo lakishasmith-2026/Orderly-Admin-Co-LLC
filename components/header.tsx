@@ -18,7 +18,7 @@ export function Header() {
             Contact
           </Link>
         </nav>
-        <button className="bg-primary text-primary-foreground px-5 py-2 rounded-2xl text-sm font-medium hover:opacity-90 transition">
+        <button className="bg-accent text-accent-foreground px-5 py-2 rounded-2xl text-sm font-medium hover:opacity-90 transition">
           Get Started
         </button>
       </div>

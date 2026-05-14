@@ -11,7 +11,7 @@ export function ContactCta() {
         </p>
 
         <div className="flex flex-wrap justify-center gap-4">
-          <button className="bg-primary-foreground text-primary px-6 py-3 rounded-2xl font-medium hover:opacity-90 transition">
+          <button className="bg-accent text-accent-foreground px-6 py-3 rounded-2xl font-medium hover:opacity-90 transition">
             Request Capability Statement
           </button>
           <button className="border border-primary-foreground px-6 py-3 rounded-2xl font-medium hover:bg-primary-foreground hover:text-primary transition">
