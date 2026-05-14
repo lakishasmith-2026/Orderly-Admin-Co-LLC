@@ -18,7 +18,9 @@ export function ContactCta() {
             Request Capability Statement
           </a>
           <a
-            href="mailto:lakishasmith@orderlyadminco.com?subject=Consultation%20Request"
+            href="https://calendly.com/lakishasmith-orderlyadminco/30min"
+            target="_blank"
+            rel="noopener noreferrer"
             className="border border-primary-foreground px-6 py-3 rounded-2xl font-medium hover:bg-primary-foreground hover:text-primary transition"
           >
             Schedule a Consultation
