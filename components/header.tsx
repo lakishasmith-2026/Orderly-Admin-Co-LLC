@@ -18,9 +18,12 @@ export function Header() {
             Contact
           </Link>
         </nav>
-        <button className="bg-accent text-accent-foreground px-5 py-2 rounded-2xl text-sm font-medium hover:opacity-90 transition">
+        <a
+          href="mailto:lakishasmith@orderlyadminco.com?subject=Getting%20Started%20with%20Orderly%20Admin%20Co"
+          className="bg-accent text-accent-foreground px-5 py-2 rounded-2xl text-sm font-medium hover:opacity-90 transition"
+        >
           Get Started
-        </button>
+        </a>
       </div>
     </header>
   );

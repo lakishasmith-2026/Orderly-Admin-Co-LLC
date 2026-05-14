@@ -25,12 +25,18 @@ export function Hero() {
             contractors, agencies, and project teams.
           </p>
           <div className="flex flex-wrap gap-4">
-            <button className="bg-accent text-accent-foreground px-6 py-3 rounded-2xl text-sm font-medium shadow hover:opacity-90 transition">
+            <a
+              href="mailto:lakishasmith@orderlyadminco.com?subject=Capability%20Statement%20Request"
+              className="bg-accent text-accent-foreground px-6 py-3 rounded-2xl text-sm font-medium shadow hover:opacity-90 transition"
+            >
               Request Capability Statement
-            </button>
-            <button className="border border-border px-6 py-3 rounded-2xl text-sm font-medium hover:bg-secondary transition">
+            </a>
+            <a
+              href="mailto:lakishasmith@orderlyadminco.com?subject=General%20Inquiry"
+              className="border border-border px-6 py-3 rounded-2xl text-sm font-medium hover:bg-secondary transition"
+            >
               Contact Us
-            </button>
+            </a>
           </div>
         </div>
 
